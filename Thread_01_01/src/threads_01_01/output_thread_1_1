@@ -1,0 +1,4 @@
+Hello fromThread-0 a thread created by Runnable interface
+Hello fromThread-1  created by extending Thread class
+Hello fromThread t1  withoud using lambda
+Hello fromThread-2  using Lambda
